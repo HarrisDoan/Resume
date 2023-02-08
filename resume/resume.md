@@ -15,17 +15,34 @@
 
 <div className="vertical-spacer"></div>
 
+## Education
+
+**University of California, Los Angeles** - Bachelors of Science, Computer Science, GPA: 3.0<span class="spacer"></span>2022-2025 
+
+**Napa Valley College** - Major: Computer Science, GPA: 4.0<span class="spacer"></span>2019-2022
+
+**Solano Community College** - Major: Computer Science, GPA: 3.7<span class="spacer"></span>2019-2022
+
 ## Technical Skills
 
-**Front End** | React, Javascript, NodeJS, CSS, HTML, OpenGL, TinyGL, Three.js
-
 **Back End** | C++, Python, MySQL
+
+**Front End** | React, Javascript, NodeJS, CSS, HTML, OpenGL, TinyGL, Three.js
 
 **Developer Tools** | Git
 
 <div className="vertical-spacer"></div>
 
 ## Experience & Projects
+
+### C++ Coding Projects | CS31 Projects <span class="spacer"></span>Jan 2023 - Mar 2022
+
+*Projects from CS31 Winter 2023 with Prof. Bruce Huang* <span class="spacer"></span> C++
+
+- Project 2 - Created a tax calculation program that users could input the name of their state of residence, the month, day, and year of purchase, and purchase amount to calculate the anticipated total. Also took into account each individual state's tax exemption days. Room for expansion allowing for changing of local tax rates and state tax rates.
+- Project 3 - Created a program that took a quality control input string that would denote quality assurance test quantities, pass quantities, and defect quantities. Automatically detects incorrect quality assurance strings and returns an invalid computation. Works for an infinite amount of strings.
+
+<div className="vertical-spacer"></div>
 
 ### TinyGL 3-D Interactive Game | Wii Archery for Dummies <span class="spacer"></span>Oct 2022 - Dec 2022
 
@@ -49,15 +66,6 @@
 
 <div className="vertical-spacer"></div>
 
-### C++ Coding Projects | CS31 Projects <span class="spacer"></span>Jan 2023 - Mar 2022
-
-*Projects from CS31 Winter 2023 with Prof. Bruce Huang* <span class="spacer"></span> C++
-
-- Project 2 - Created a tax calculation program that users could input the name of their state of residence, the month, day, and year of purchase, and purchase amount to calculate the anticipated total. Also took into account each individual state's tax exemption days. Room for expansion allowing for changing of local tax rates and state tax rates.
-- Project 3 - Created a program that took a quality control input string that would denote quality assurance test quantities, pass quantities, and defect quantities. Automatically detects incorrect quality assurance strings and returns an invalid computation. Works for an infinite amount of strings.
-
-<div className="vertical-spacer"></div>
-
 ### 3D Three.js Resume | Personal Resume Website <span class="spacer"></span> 2020-2021
 
 *Single page e-commerce website* <span class="spacer"></span> JavaScript | HTML | CSS | Three.js
@@ -69,12 +77,4 @@
 
 <div className="vertical-spacer"></div>
 
-<!-- Move this section above Technical Skills if you're a student/new grad -->
-## Education
-
-**University of California, Los Angeles** - Bachelors of Science, Computer Science<span class="spacer"></span>2022-2025
-
-**Napa Valley College** - Bachelors of Science, Computer Science, GPA: 4.0<span class="spacer"></span>2019-2022
-
-**Solano Community College** - Bachelors of Science, Computer Science, GPA: 3.7<span class="spacer"></span>2019-2022
 
